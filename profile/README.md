@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center">Syntaktik</h1>
+<h1 align="center">Syntaktik e.U.</h1>
 
 <p align="center">AI consulting and software development from Tyrol, Austria</p>
 
