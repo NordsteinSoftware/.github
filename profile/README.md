@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyntaktikEU/.github/main/profile/logo-dark.svg">
-    <img src="https://raw.githubusercontent.com/SyntaktikEU/.github/main/profile/logo-light.svg" alt="Syntaktik" width="72" height="72">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NordsteinSoftware/.github/main/profile/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/NordsteinSoftware/.github/main/profile/logo-light.svg" alt="Nordstein" width="72" height="72">
   </picture>
 </p>
 
-<h1 align="center">Syntaktik e.U.</h1>
+<h1 align="center">Nordstein Software GmbH</h1>
 
 <p align="center">AI consulting and software development from Tyrol, Austria</p>
 
@@ -32,11 +32,11 @@ Proxytrace is the software we develop in-house. It records model requests and re
 results against your test cases, and tracks quality and operational behaviour over time. Deployable
 on your own infrastructure.
 
-[proxytrace.dev](https://proxytrace.dev) · [Source](https://github.com/SyntaktikEU/Proxytrace)
+[proxytrace.dev](https://proxytrace.dev) · [Source](https://github.com/NordsteinSoftware/Proxytrace)
 
 ### Contact
 
-Syntaktik e.U. · Absam, Tirol, Austria
-[syntaktik.eu](https://syntaktik.eu) · [office@syntaktik.eu](mailto:office@syntaktik.eu)
+Nordstein Software GmbH · Absam, Tirol, Austria
+[nordstein.eu](https://nordstein.eu) · [office@nordstein.eu](mailto:office@nordstein.eu)
 
 The 45-minute introductory call is free and carries no obligation.
