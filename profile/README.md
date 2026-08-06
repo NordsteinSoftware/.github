@@ -1,11 +1,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NordsteinSoftware/.github/main/profile/logo-dark.svg">
-    <img src="https://raw.githubusercontent.com/NordsteinSoftware/.github/main/profile/logo-light.svg" alt="Nordstein" width="72" height="72">
+    <img src="https://raw.githubusercontent.com/NordsteinSoftware/.github/main/profile/logo-light.svg" alt="Nordstein Software GmbH" width="360" height="51">
   </picture>
 </p>
-
-<h1 align="center">Nordstein Software GmbH</h1>
 
 <p align="center">AI consulting and software development from Tyrol, Austria</p>
 
