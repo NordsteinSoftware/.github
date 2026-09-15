@@ -23,15 +23,7 @@ to continue rests on evidence rather than on a proposal.
   translated into technical and organisational controls
 - **AI evaluation and monitoring** — response quality tested against your own cases, regressions
   caught, production failures made visible
-
-### Proxytrace
-
-Proxytrace is the software we develop in-house. It records model requests and responses, checks
-results against your test cases, and tracks quality and operational behaviour over time. Deployable
-on your own infrastructure.
-
-[proxytrace.dev](https://proxytrace.dev) · [Source](https://github.com/NordsteinSoftware/Proxytrace)
-
+  
 ### Contact
 
 Nordstein Software GmbH · Absam, Tirol, Austria
