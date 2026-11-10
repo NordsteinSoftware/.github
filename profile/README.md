@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NordsteinSoftware/.github/main/profile/logo-dark.svg">
-    <img src="https://raw.githubusercontent.com/NordsteinSoftware/.github/main/profile/logo-light.svg" alt="Nordstein Software GmbH" width="360" height="51">
+    <img src="https://raw.githubusercontent.com/NordsteinSoftware/.github/main/profile/logo-light.svg" alt="Nordstein Software GmbH" width="320" height="80">
   </picture>
 </p>
 

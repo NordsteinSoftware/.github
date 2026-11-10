@@ -17,7 +17,7 @@ identity changes, copy the assets across again rather than editing them in place
 | --- | --- |
 | `profile/logo-light.svg` | `assets/logo/svg/nordstein-lockup-horizontal.svg` |
 | `profile/logo-dark.svg` | `assets/logo/svg/nordstein-lockup-horizontal-reversed.svg` |
-| `profile/avatar.svg` | `assets/favicon/nordstein-appicon.svg`, corner radius dropped |
+| `profile/avatar.svg` | `assets/favicon/nordstein-appicon.svg` geometry with `assets/logo/source/needle/mark-medium-reversed.svg`, corner radius dropped |
 
 The two lockups are a light/dark pair, selected with `prefers-color-scheme` so the mark stays
 legible in both GitHub themes. They are referenced by absolute `raw.githubusercontent.com` URL,
@@ -26,10 +26,11 @@ organisation page. The horizontal lockup is the default logo per the brand guide
 the mark next to a text heading instead, that rebuilds the lockup by hand.
 
 `profile/avatar.svg` is the organisation profile picture, with `avatar.png` the 512 px render that
-GitHub actually accepts (it rejects SVG). Unlike the two lockups it has `slate-800` (`#16283C`)
+GitHub actually accepts (it rejects SVG). Unlike the two lockups it has `ink-800` (`#1F2124`)
 baked in and bleeds to the edges, because an avatar gets no `prefers-color-scheme` and GitHub crops
 it to a circle in some views and a rounded square in others. The app icon's 22 % corner radius is
-dropped for the same reason: GitHub supplies its own mask. To change it, copy the current app icon
+dropped for the same reason: GitHub supplies its own mask. It uses the needle's medium drawing,
+not the hatched full one, because GitHub shows avatars at 20 to 48 px in most views. To change it, copy the current app icon
 across and re-render:
 
 ```bash
